@@ -41,3 +41,13 @@ output 4:Flore wise rent details
 
 output 5:Year wise revenue details
 ![](https://github.com/Pooja96SS1/House-price-prediction/blob/main/Figure_5.png)
+
+
+
+POOJA S S
+
+4VV19SCS10
+
+COMPUTER SCIENCE AND ENGG,
+
+VIDYAVARDAKA COLLEGE OF ENGINEERING< MYSURU
