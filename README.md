@@ -44,6 +44,16 @@ output 5:Year wise revenue details
 
 
 
+
+
+CONCLUSION
+
+
+A system that aims to provide an accurate prediction of housing prices has been developed. The system makes optimal use of Linear Regression, Forest regression, Boosted regression. The efficiency of the algorithm has been further increased with use of Neural networks. The system will satisfy customers by providing accurate output and preventing the risk of investing in the wrong house. Additional features for the customer’s benefit can also be added to the system without disturbing it’s core functionality. A major future update could be the addition of larger cities to the database, which will allow our users to explore more houses, get more accuracy and thus come to a proper decision.
+
+
+
+
 POOJA S S
 
 4VV19SCS10
